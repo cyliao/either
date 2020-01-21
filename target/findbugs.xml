@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<BugCollection version='3.0.1' threshold='medium' effort='max'><Error></Error><Project><SrcDir>/Users/smartliao/smart/either/src/main/java</SrcDir><SrcDir>/Users/smartliao/smart/either/src/test/java</SrcDir></Project></BugCollection>

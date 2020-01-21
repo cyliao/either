@@ -1,0 +1,1 @@
+一个类似scala的Either
